@@ -18,10 +18,15 @@ You choose a source folder, scan available file types, select what you want, pre
 
 ## Download and Install
 
-1. Download `Aurellium-Setup.exe` from this repository.
+Direct download:
+
+- [Download Aurellium Setup](https://github.com/xoxogabweyl/Aurellium/raw/main/Aurellium-Setup.exe)
+
+Install steps:
+
+1. Download `Aurellium-Setup.exe` using the link above.
 2. Run the installer.
 3. Open **Aurellium** from Start Menu (or Desktop if that option was selected).
-
 ## Quick Start
 
 1. Set **Source folder**.
@@ -59,3 +64,4 @@ You choose a source folder, scan available file types, select what you want, pre
 - PySide6
 - PyInstaller
 - Inno Setup
+
